@@ -1,0 +1,1 @@
+Machine Learning enables computers to learn patterns from data.

@@ -1,0 +1,76 @@
+Query,Rank,Source,Distance
+What is artificial intelligence?,1,doc1.txt,0.4088248908519745
+What is artificial intelligence?,2,doc10.txt,0.9775575399398804
+What is artificial intelligence?,3,doc4.txt,0.9976377487182617
+What is artificial intelligence?,4,doc2.txt,1.1434458494186401
+What is artificial intelligence?,5,doc8.txt,1.1788830757141113
+How do computers learn from information?,1,doc2.txt,0.8296365141868591
+How do computers learn from information?,2,doc8.txt,1.0277678966522217
+How do computers learn from information?,3,doc1.txt,1.1534830331802368
+How do computers learn from information?,4,doc7.txt,1.304689884185791
+How do computers learn from information?,5,doc3.txt,1.3416165113449097
+Explain neural networks,1,doc3.txt,0.9160563349723816
+Explain neural networks,2,doc2.txt,1.204676866531372
+Explain neural networks,3,doc1.txt,1.2659902572631836
+Explain neural networks,4,doc8.txt,1.347599983215332
+Explain neural networks,5,doc10.txt,1.3864455223083496
+Which programming language is useful for AI?,1,doc4.txt,0.7356976270675659
+Which programming language is useful for AI?,2,doc1.txt,0.8735266327857971
+Which programming language is useful for AI?,3,doc8.txt,1.095677137374878
+Which programming language is useful for AI?,4,doc10.txt,1.15443754196167
+Which programming language is useful for AI?,5,doc3.txt,1.325476884841919
+How can digital systems be protected?,1,doc5.txt,0.7899309396743774
+How can digital systems be protected?,2,doc6.txt,1.447967529296875
+How can digital systems be protected?,3,doc7.txt,1.683068871498108
+How can digital systems be protected?,4,doc8.txt,1.6862380504608154
+How can digital systems be protected?,5,doc1.txt,1.6907823085784912
+What are online computing services?,1,doc6.txt,0.7706917524337769
+What are online computing services?,2,doc5.txt,1.3650977611541748
+What are online computing services?,3,doc1.txt,1.3730175495147705
+What are online computing services?,4,doc4.txt,1.3809106349945068
+What are online computing services?,5,doc8.txt,1.4140920639038086
+How is information stored and organized?,1,doc7.txt,0.8042917847633362
+How is information stored and organized?,2,doc2.txt,1.2866171598434448
+How is information stored and organized?,3,doc8.txt,1.4195830821990967
+How is information stored and organized?,4,doc1.txt,1.5583840608596802
+How is information stored and organized?,5,doc6.txt,1.604751706123352
+How do computers understand human language?,1,doc8.txt,0.6158063411712646
+How do computers understand human language?,2,doc2.txt,1.1907998323440552
+How do computers understand human language?,3,doc1.txt,1.2147936820983887
+How do computers understand human language?,4,doc3.txt,1.3305644989013672
+How do computers understand human language?,5,doc4.txt,1.3786652088165283
+What are alternative sources of electricity?,1,doc9.txt,0.9992991089820862
+What are alternative sources of electricity?,2,doc6.txt,1.779744029045105
+What are alternative sources of electricity?,3,doc5.txt,1.8212779760360718
+What are alternative sources of electricity?,4,doc1.txt,1.8905693292617798
+What are alternative sources of electricity?,5,doc4.txt,1.8920096158981323
+How can technology help doctors?,1,doc10.txt,0.7782495021820068
+How can technology help doctors?,2,doc1.txt,1.2989991903305054
+How can technology help doctors?,3,doc8.txt,1.3027278184890747
+How can technology help doctors?,4,doc3.txt,1.476900339126587
+How can technology help doctors?,5,doc5.txt,1.5351933240890503
+Explain machine learning applications,1,doc2.txt,0.6799914240837097
+Explain machine learning applications,2,doc3.txt,1.1099849939346313
+Explain machine learning applications,3,doc1.txt,1.1411375999450684
+Explain machine learning applications,4,doc10.txt,1.1511175632476807
+Explain machine learning applications,5,doc8.txt,1.1541880369186401
+What is speech recognition?,1,doc3.txt,1.111665964126587
+What is speech recognition?,2,doc8.txt,1.1183141469955444
+What is speech recognition?,3,doc2.txt,1.4233040809631348
+What is speech recognition?,4,doc10.txt,1.4720648527145386
+What is speech recognition?,5,doc1.txt,1.4732202291488647
+How does cloud storage work?,1,doc6.txt,0.5652824640274048
+How does cloud storage work?,2,doc7.txt,1.4048327207565308
+How does cloud storage work?,3,doc2.txt,1.7433345317840576
+How does cloud storage work?,4,doc1.txt,1.7439491748809814
+How does cloud storage work?,5,doc10.txt,1.7645833492279053
+What is data security?,1,doc5.txt,1.0079673528671265
+What is data security?,2,doc7.txt,1.1742119789123535
+What is data security?,3,doc6.txt,1.3096991777420044
+What is data security?,4,doc2.txt,1.4422414302825928
+What is data security?,5,doc4.txt,1.516984224319458
+How can sunlight generate electricity?,1,doc9.txt,0.9935108423233032
+How can sunlight generate electricity?,2,doc6.txt,1.6670740842819214
+How can sunlight generate electricity?,3,doc2.txt,1.7670930624008179
+How can sunlight generate electricity?,4,doc4.txt,1.8551990985870361
+How can sunlight generate electricity?,5,doc1.txt,1.8580729961395264

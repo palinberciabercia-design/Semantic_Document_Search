@@ -1,0 +1,16 @@
+Query,Semantic_Search,Keyword_Search
+What is artificial intelligence?,"doc1.txt, doc10.txt, doc4.txt, doc2.txt, doc8.txt","doc1.txt, doc4.txt"
+How do computers learn from information?,"doc2.txt, doc8.txt, doc1.txt, doc7.txt, doc3.txt","doc2.txt, doc5.txt, doc1.txt, doc7.txt, doc8.txt"
+Explain neural networks,"doc3.txt, doc2.txt, doc1.txt, doc8.txt, doc10.txt","doc3.txt, doc5.txt"
+Which programming language is useful for AI?,"doc4.txt, doc1.txt, doc8.txt, doc10.txt, doc3.txt","doc4.txt, doc10.txt, doc3.txt, doc8.txt"
+How can digital systems be protected?,"doc5.txt, doc6.txt, doc7.txt, doc8.txt, doc1.txt",doc5.txt
+What are online computing services?,"doc6.txt, doc5.txt, doc1.txt, doc4.txt, doc8.txt",doc6.txt
+How is information stored and organized?,"doc7.txt, doc2.txt, doc8.txt, doc1.txt, doc6.txt","doc4.txt, doc7.txt, doc3.txt, doc5.txt, doc6.txt"
+How do computers understand human language?,"doc8.txt, doc2.txt, doc1.txt, doc3.txt, doc4.txt","doc8.txt, doc1.txt, doc2.txt, doc4.txt, doc5.txt"
+What are alternative sources of electricity?,"doc9.txt, doc6.txt, doc5.txt, doc1.txt, doc4.txt",
+How can technology help doctors?,"doc10.txt, doc1.txt, doc8.txt, doc3.txt, doc5.txt",doc10.txt
+Explain machine learning applications,"doc2.txt, doc3.txt, doc1.txt, doc10.txt, doc8.txt","doc2.txt, doc3.txt"
+What is speech recognition?,"doc3.txt, doc8.txt, doc2.txt, doc10.txt, doc1.txt","doc3.txt, doc4.txt"
+How does cloud storage work?,"doc6.txt, doc7.txt, doc2.txt, doc1.txt, doc10.txt",doc6.txt
+What is data security?,"doc5.txt, doc7.txt, doc6.txt, doc2.txt, doc4.txt","doc4.txt, doc2.txt"
+How can sunlight generate electricity?,"doc9.txt, doc6.txt, doc2.txt, doc4.txt, doc1.txt",
